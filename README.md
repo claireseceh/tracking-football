@@ -5,9 +5,9 @@ These data are the propriaty of Bepro and were transmitted thanks to Daniel Copp
 Explanation of csv files below:
 
 - TXT file is for the actual x, y positional data of all players and the ball, and XML file is for the metadata that explains the structure of the TXT file.
-- There are 2 files in "XML" folder that we shared with you. bepro tracking data_FIRST_HALF.xml is related to bepro tracking data_FIRST_HALF.txt and bepro tracking data_SECOND_HALF.xml is related to bepro tracking data_SECOND_HALF.xml.
+- There are 2 files in "XML" folder that we shared with you. Bepro tracking data_FIRST_HALF.xml is related to bepro tracking data_FIRST_HALF.txt and bepro tracking data_SECOND_HALF.xml is related to bepro tracking data_SECOND_HALF.xml.
 
-Basically, each row in TXT file represents the position of all 22 players and the ball, alongside the frame number and status of the ball. 
+Basically, each row in TXT file represents the position of all 22 players and the ball, alongside the frame number and status of the ball.
 -> {frame number}:{player1's x},{player1's y};{player2's x},{player2's y}; ... ;{player22's x},{player22's y}:{ball's x},{ball's y}:{ball status}
 
 From the sample row that you mentioned
