@@ -1,0 +1,540 @@
+<?xml version="1.0"?>
+<tns:FIFADataTransferFormatEPTS xmlns:tns="FIFADataTransferFormatEPTSNamespace/FIFADataTransferFormatEPTS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="FIFADataTransferFormatEPTSNamespace/FIFADataTransferFormatEPTS FIFADataTransferFormatEPTS.xsd ">
+  <MetaData>
+    <GlobalConfig>
+      <FileDate>2020-11-12T00:46:55</FileDate>
+      <FileName>Tracking Data</FileName>
+      <TrackingType>Optical</TrackingType>
+      <ProviderName>Bepro Europe GmbH</ProviderName>
+    </GlobalConfig>
+    <Sessions>
+      <Session id="session1">
+        <SessionType>Match</SessionType>
+        <SessionName>First Half</SessionName>
+        <MatchParameters>
+          <FieldSize>
+            <Length>105</Length>
+            <Width>68</Width>
+          </FieldSize>
+        </MatchParameters>
+        <Location>Bepro Stadium</Location>
+      </Session>
+    </Sessions>
+    <Teams>
+      <Team id="9828">
+        <Name>FC Cerberus</Name>
+      </Team>
+      <Team id="9829">
+        <Name>FC Hercules</Name>
+      </Team>
+    </Teams>
+    <Players>
+      <Player id="175799" teamId="9828">
+        <Name>Bradley Lashley</Name>
+        <ShirtNumber>1</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Goalie</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175800" teamId="9828">
+        <Name>Efrain Alvarez</Name>
+        <ShirtNumber>18</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175801" teamId="9828">
+        <Name>Tomáš Vlček</Name>
+        <ShirtNumber>28</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175802" teamId="9828">
+        <Name>Éder Marvin Oliveira Simão</Name>
+        <ShirtNumber>30</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175803" teamId="9828">
+        <Name>Christian Günter Günter</Name>
+        <ShirtNumber>25</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175804" teamId="9828">
+        <Name>Simen Rafn</Name>
+        <ShirtNumber>32</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175805" teamId="9828">
+        <Name>Ramiro Ruiz</Name>
+        <ShirtNumber>6</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175806" teamId="9828">
+        <Name>Kevin Kraus</Name>
+        <ShirtNumber>13</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175807" teamId="9828">
+        <Name>Patrick Möschl</Name>
+        <ShirtNumber>23</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175808" teamId="9828">
+        <Name>Kerem Demirbay</Name>
+        <ShirtNumber>14</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175809" teamId="9828">
+        <Name>Pierre Kunde Malong</Name>
+        <ShirtNumber>10</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175811" teamId="9828">
+        <Name>Michael Peck</Name>
+        <ShirtNumber>11</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175812" teamId="9828">
+        <Name>David Wheeler</Name>
+        <ShirtNumber>21</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175814" teamId="9828">
+        <Name>Nathan Delfouneso</Name>
+        <ShirtNumber>24</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175815" teamId="9828">
+        <Name>Marc Rochester Sørensen</Name>
+        <ShirtNumber>29</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175816" teamId="9828">
+        <Name>Kieran Tierney</Name>
+        <ShirtNumber>36</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175817" teamId="9829">
+        <Name>Agustín Urzi</Name>
+        <ShirtNumber>12</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175818" teamId="9829">
+        <Name>Dominic Ball</Name>
+        <ShirtNumber>7</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175819" teamId="9829">
+        <Name>Magnus Blakstad</Name>
+        <ShirtNumber>9</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175820" teamId="9829">
+        <Name>Zlatko Junuzović</Name>
+        <ShirtNumber>10</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175821" teamId="9829">
+        <Name>Douglas Arthur Silbeira Martins</Name>
+        <ShirtNumber>20</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175822" teamId="9829">
+        <Name>Joris Gnagnon</Name>
+        <ShirtNumber>17</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175823" teamId="9829">
+        <Name>James Philip Milner</Name>
+        <ShirtNumber>11</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175824" teamId="9829">
+        <Name>Simon Thern</Name>
+        <ShirtNumber>4</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175825" teamId="9829">
+        <Name>Conor McAleny</Name>
+        <ShirtNumber>2</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175826" teamId="9829">
+        <Name>Richie Loughty</Name>
+        <ShirtNumber>19</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175827" teamId="9829">
+        <Name>Dawid Kudła</Name>
+        <ShirtNumber>1</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Goalie</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175829" teamId="9829">
+        <Name>Guélor Kanga</Name>
+        <ShirtNumber>8</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175831" teamId="9829">
+        <Name>Claudio Ever Silbeiro Martins</Name>
+        <ShirtNumber>3</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Midfielder</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175832" teamId="9829">
+        <Name>Sébastien Bruzzese</Name>
+        <ShirtNumber>14</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175833" teamId="9829">
+        <Name>Alfie Jones</Name>
+        <ShirtNumber>15</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Defender</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+      <Player id="175834" teamId="9829">
+        <Name>Daniel Adshead</Name>
+        <ShirtNumber>6</ShirtNumber>
+        <ProviderPlayerParameters>
+          <ProviderParameter>
+            <Name>position</Name>
+            <Value>Forward</Value>
+          </ProviderParameter>
+        </ProviderPlayerParameters>
+      </Player>
+    </Players>
+    <Devices>
+      <Device id="109">
+        <Name>Camera</Name>
+        <Sensors>
+          <Sensor id="position">
+            <Name>Position</Name>
+            <Channels>
+              <Channel id="x">
+                <Name>Position X</Name>
+                <Unit>cm</Unit>
+              </Channel>
+              <Channel id="y">
+                <Name>Position Y</Name>
+                <Unit>cm</Unit>
+              </Channel>
+            </Channels>
+          </Sensor>
+        </Sensors>
+      </Device>
+    </Devices>
+    <PlayerChannels>
+      <PlayerChannel id="player175799_x" playerId="175799" channelId="x"/>
+      <PlayerChannel id="player175799_y" playerId="175799" channelId="y"/>
+      <PlayerChannel id="player175800_x" playerId="175800" channelId="x"/>
+      <PlayerChannel id="player175800_y" playerId="175800" channelId="y"/>
+      <PlayerChannel id="player175801_x" playerId="175801" channelId="x"/>
+      <PlayerChannel id="player175801_y" playerId="175801" channelId="y"/>
+      <PlayerChannel id="player175802_x" playerId="175802" channelId="x"/>
+      <PlayerChannel id="player175802_y" playerId="175802" channelId="y"/>
+      <PlayerChannel id="player175803_x" playerId="175803" channelId="x"/>
+      <PlayerChannel id="player175803_y" playerId="175803" channelId="y"/>
+      <PlayerChannel id="player175804_x" playerId="175804" channelId="x"/>
+      <PlayerChannel id="player175804_y" playerId="175804" channelId="y"/>
+      <PlayerChannel id="player175805_x" playerId="175805" channelId="x"/>
+      <PlayerChannel id="player175805_y" playerId="175805" channelId="y"/>
+      <PlayerChannel id="player175806_x" playerId="175806" channelId="x"/>
+      <PlayerChannel id="player175806_y" playerId="175806" channelId="y"/>
+      <PlayerChannel id="player175807_x" playerId="175807" channelId="x"/>
+      <PlayerChannel id="player175807_y" playerId="175807" channelId="y"/>
+      <PlayerChannel id="player175808_x" playerId="175808" channelId="x"/>
+      <PlayerChannel id="player175808_y" playerId="175808" channelId="y"/>
+      <PlayerChannel id="player175809_x" playerId="175809" channelId="x"/>
+      <PlayerChannel id="player175809_y" playerId="175809" channelId="y"/>
+      <PlayerChannel id="player175811_x" playerId="175811" channelId="x"/>
+      <PlayerChannel id="player175811_y" playerId="175811" channelId="y"/>
+      <PlayerChannel id="player175812_x" playerId="175812" channelId="x"/>
+      <PlayerChannel id="player175812_y" playerId="175812" channelId="y"/>
+      <PlayerChannel id="player175814_x" playerId="175814" channelId="x"/>
+      <PlayerChannel id="player175814_y" playerId="175814" channelId="y"/>
+      <PlayerChannel id="player175815_x" playerId="175815" channelId="x"/>
+      <PlayerChannel id="player175815_y" playerId="175815" channelId="y"/>
+      <PlayerChannel id="player175816_x" playerId="175816" channelId="x"/>
+      <PlayerChannel id="player175816_y" playerId="175816" channelId="y"/>
+      <PlayerChannel id="player175817_x" playerId="175817" channelId="x"/>
+      <PlayerChannel id="player175817_y" playerId="175817" channelId="y"/>
+      <PlayerChannel id="player175818_x" playerId="175818" channelId="x"/>
+      <PlayerChannel id="player175818_y" playerId="175818" channelId="y"/>
+      <PlayerChannel id="player175819_x" playerId="175819" channelId="x"/>
+      <PlayerChannel id="player175819_y" playerId="175819" channelId="y"/>
+      <PlayerChannel id="player175820_x" playerId="175820" channelId="x"/>
+      <PlayerChannel id="player175820_y" playerId="175820" channelId="y"/>
+      <PlayerChannel id="player175821_x" playerId="175821" channelId="x"/>
+      <PlayerChannel id="player175821_y" playerId="175821" channelId="y"/>
+      <PlayerChannel id="player175822_x" playerId="175822" channelId="x"/>
+      <PlayerChannel id="player175822_y" playerId="175822" channelId="y"/>
+      <PlayerChannel id="player175823_x" playerId="175823" channelId="x"/>
+      <PlayerChannel id="player175823_y" playerId="175823" channelId="y"/>
+      <PlayerChannel id="player175824_x" playerId="175824" channelId="x"/>
+      <PlayerChannel id="player175824_y" playerId="175824" channelId="y"/>
+      <PlayerChannel id="player175825_x" playerId="175825" channelId="x"/>
+      <PlayerChannel id="player175825_y" playerId="175825" channelId="y"/>
+      <PlayerChannel id="player175826_x" playerId="175826" channelId="x"/>
+      <PlayerChannel id="player175826_y" playerId="175826" channelId="y"/>
+      <PlayerChannel id="player175827_x" playerId="175827" channelId="x"/>
+      <PlayerChannel id="player175827_y" playerId="175827" channelId="y"/>
+      <PlayerChannel id="player175829_x" playerId="175829" channelId="x"/>
+      <PlayerChannel id="player175829_y" playerId="175829" channelId="y"/>
+      <PlayerChannel id="player175831_x" playerId="175831" channelId="x"/>
+      <PlayerChannel id="player175831_y" playerId="175831" channelId="y"/>
+      <PlayerChannel id="player175832_x" playerId="175832" channelId="x"/>
+      <PlayerChannel id="player175832_y" playerId="175832" channelId="y"/>
+      <PlayerChannel id="player175833_x" playerId="175833" channelId="x"/>
+      <PlayerChannel id="player175833_y" playerId="175833" channelId="y"/>
+      <PlayerChannel id="player175834_x" playerId="175834" channelId="x"/>
+      <PlayerChannel id="player175834_y" playerId="175834" channelId="y"/>
+    </PlayerChannels>
+  </MetaData>
+  <DataFormatSpecifications>
+<DataFormatSpecification separator=":" startFrame="251" endFrame="72175">
+  <StringRegister name="frameCount" />
+<SplitRegister Separator=";">	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175799_x"/>	
+    <PlayerChannelRef playerChannelId="player175799_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175800_x"/>	
+    <PlayerChannelRef playerChannelId="player175800_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175801_x"/>	
+    <PlayerChannelRef playerChannelId="player175801_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175802_x"/>	
+    <PlayerChannelRef playerChannelId="player175802_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175803_x"/>	
+    <PlayerChannelRef playerChannelId="player175803_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175804_x"/>	
+    <PlayerChannelRef playerChannelId="player175804_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175805_x"/>	
+    <PlayerChannelRef playerChannelId="player175805_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175806_x"/>	
+    <PlayerChannelRef playerChannelId="player175806_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175807_x"/>	
+    <PlayerChannelRef playerChannelId="player175807_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175808_x"/>	
+    <PlayerChannelRef playerChannelId="player175808_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175809_x"/>	
+    <PlayerChannelRef playerChannelId="player175809_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175817_x"/>	
+    <PlayerChannelRef playerChannelId="player175817_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175818_x"/>	
+    <PlayerChannelRef playerChannelId="player175818_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175819_x"/>	
+    <PlayerChannelRef playerChannelId="player175819_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175820_x"/>	
+    <PlayerChannelRef playerChannelId="player175820_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175821_x"/>	
+    <PlayerChannelRef playerChannelId="player175821_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175822_x"/>	
+    <PlayerChannelRef playerChannelId="player175822_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175823_x"/>	
+    <PlayerChannelRef playerChannelId="player175823_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175824_x"/>	
+    <PlayerChannelRef playerChannelId="player175824_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175825_x"/>	
+    <PlayerChannelRef playerChannelId="player175825_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175826_x"/>	
+    <PlayerChannelRef playerChannelId="player175826_y"/>	
+  </SplitRegister>	
+  <SplitRegister separator=",">	
+    <PlayerChannelRef playerChannelId="player175827_x"/>	
+    <PlayerChannelRef playerChannelId="player175827_y"/>	
+  </SplitRegister>	
+</SplitRegister>	
+<SplitRegister Separator=",">	
+  <BallChannelRef channelId="x"/>	
+  <BallChannelRef channelId="y"/>	
+</SplitRegister>	
+  <StringRegister name="ballStatus" />
+</DataFormatSpecification>
+</DataFormatSpecifications>
+</tns:FIFADataTransferFormatEPTS>
